@@ -85,100 +85,95 @@ Falar sobre o método utilizado para definição das priorizações.
       <td style="text-align:left">O projeto não alcançou o estágio esperado no ciclo de vida.</td>
     </tr>
   </tbody>
-</table>
-
-## Processo de Desenvolvimento
+</table>## Processo de Desenvolvimento
 
 ### Atividades de Planejamento
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:center">Atividade</th>
-      <th style="text-align:center">Grau de Definição</th>
-      <th style="text-align:center">Grau de Implementação</th>
-      <th style="text-align:center">Ação de Melhoria</th>
-      <th style="text-align:center">Prioridade</th>
-      <th style="text-align:center">Justificativa</th>
+      <th style="text-align:left">Atividade</th>
+      <th style="text-align:left">Grau de Definição</th>
+      <th style="text-align:left">Grau de Implementação</th>
+      <th style="text-align:left">Ação de Melhoria</th>
+      <th style="text-align:left">Prioridade</th>
+      <th style="text-align:left">Justificativa</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center">Elicitar requisitos</td>
-      <td style="text-align:center">FI</td>
-      <td style="text-align:center">FI</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
+      <td style="text-align:left">Elicitar requisitos</td>
+      <td style="text-align:left">FI</td>
+      <td style="text-align:left">FI</td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
     </tr>
     <tr>
-      <td style="text-align:center">Analisar requisitos</td>
-      <td style="text-align:center">NI</td>
-      <td style="text-align:center">FI</td>
-      <td style="text-align:center">
+      <td style="text-align:left">Analisar requisitos</td>
+      <td style="text-align:left">NI</td>
+      <td style="text-align:left">FI</td>
+      <td style="text-align:left">
         <p>Refinamento deve ser feito internamente na equipe, como definição de escopo
           e de viabilidade do projeto.</p>
         <p>Especificar tarefa de viabilidade do projeto.</p>
       </td>
-      <td style="text-align:center">Could Have</td>
-      <td style="text-align:center">A ausência de uma tarefa de viabilidade do projeto prejudica a definição
+      <td style="text-align:left">Could Have</td>
+      <td style="text-align:left">A ausência de uma tarefa de viabilidade do projeto prejudica a definição
         de um escopo de maior valor.</td>
     </tr>
     <tr>
-      <td style="text-align:center">Refinar requisitos</td>
-      <td style="text-align:center">PI</td>
-      <td style="text-align:center">FI</td>
-      <td style="text-align:center">Retirar essa parte do processo, que é redundante com a atividade de Validar
+      <td style="text-align:left">Refinar requisitos</td>
+      <td style="text-align:left">PI</td>
+      <td style="text-align:left">FI</td>
+      <td style="text-align:left">Retirar essa parte do processo, que é redundante com a atividade de Validar
         Requisito.</td>
-      <td style="text-align:center">Could Have</td>
-      <td style="text-align:center">Evita retrabalho mas não é tão essencial porque a atividade relacionada
+      <td style="text-align:left">Could Have</td>
+      <td style="text-align:left">Evita retrabalho mas não é tão essencial porque a atividade relacionada
         a elicitar requisitos já foi realizada.</td>
     </tr>
     <tr>
-      <td style="text-align:center">Documentar requisitos</td>
-      <td style="text-align:center">PI</td>
-      <td style="text-align:center">FI</td>
-      <td style="text-align:center">Definir melhor a granularidade dos requisitos e definição de hierarquia
+      <td style="text-align:left">Documentar requisitos</td>
+      <td style="text-align:left">PI</td>
+      <td style="text-align:left">FI</td>
+      <td style="text-align:left">Definir melhor a granularidade dos requisitos e definição de hierarquia
         dos requisitos.</td>
-      <td style="text-align:center">Could Have</td>
-      <td style="text-align:center">O maior detalhamento dos requisitos permite uma melhor compreensão, mas
+      <td style="text-align:left">Could Have</td>
+      <td style="text-align:left">O maior detalhamento dos requisitos permite uma melhor compreensão, mas
         não é tão essencial porque a atividade relacionada a elicitar requisitos
         já foi realizada.</td>
     </tr>
     <tr>
-      <td style="text-align:center">Validar requisitos</td>
-      <td style="text-align:center">FI</td>
-      <td style="text-align:center">FI</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
+      <td style="text-align:left">Validar requisitos</td>
+      <td style="text-align:left">FI</td>
+      <td style="text-align:left">FI</td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
     </tr>
     <tr>
-      <td style="text-align:center">Planejar Release</td>
-      <td style="text-align:center">NI</td>
-      <td style="text-align:center">PI</td>
-      <td style="text-align:center">
+      <td style="text-align:left">Planejar Release</td>
+      <td style="text-align:left">NI</td>
+      <td style="text-align:left">PI</td>
+      <td style="text-align:left">
         <p>Alterar processo para embarcar a equipe da auditoria, que já existe.</p>
         <p>Detalhar atividades.</p>
       </td>
-      <td style="text-align:center">Must Have</td>
-      <td style="text-align:center">Inadequado por definir auditoria para a equipe de desenvolvimento, deve
+      <td style="text-align:left">Must Have</td>
+      <td style="text-align:left">Inadequado por definir auditoria para a equipe de desenvolvimento, deve
         ser direcionada a uma equipe específica para esta proposta.</td>
     </tr>
   </tbody>
-</table>
+</table>#### Especificações de Melhorias
 
-#### Especificações de Melhorias
-- Analisar requisitos
-  - Discutir os requisitos levantados previamente com o cliente;
-  - Documentar os requisitos;
-  - Analisar os requisitos levantados para garantir que o escopo é viável, mantendo diminuindo ou aumentando o que foi definido.
-
-- Documentar requisitos
-  - O backlog deve ser definido no modelo de épicos, features e histórias.
-
-- Planejar Release
-  - Retirar planejar auditoria das tarefas.
+* Analisar requisitos
+  * Discutir os requisitos levantados previamente com o cliente;
+  * Documentar os requisitos;
+  * Analisar os requisitos levantados para garantir que o escopo é viável, mantendo diminuindo ou aumentando o que foi definido.
+* Documentar requisitos
+  * O backlog deve ser definido no modelo de épicos, features e histórias.
+* Planejar Release
+  * Retirar planejar auditoria das tarefas.
 
 ### Atividades de Desenvolvimento
 
@@ -193,23 +188,23 @@ Falar sobre o método utilizado para definição das priorizações.
 | Realizar Retrospectiva | FI | FI | - | - | - |
 
 #### Especificações de Melhorias
-- Papéis
-  - PO
-    - Membro do time de desenvolvimento, define as histórias e as prioriza. Tem a responsabilidade de manter a integridade conceitual das novas features e melhorias e também é responsável por manter a integração entre o time e o cliente.
-    - Atividades do PO:
-      - Refinar requisitos;
-      - Definir os critérios de aceitação das histórias planejadas;
-      - Revisar Sprint;
-      - Planejar Sprint.
-  - Scrum Master
-    - O Scrum Master procura assegurar que a equipe respeite e siga os valores e as práticas do Scrum, também atua como facilitador do Daily Meeting, e tenta assegurar o planejamento da Sprint nos limites de entrega da equipe de desenvolvimento.
-    - Atividades do Scrum Master :
-      - Conduzir o Daily Meeting;
-      - Planeja a Sprint.
 
-- Realizar Stand-up:
-  - Alterar o nome da atividade para Meeting;
-  - Reuniões de equipe presencialmente duas vezes na semana (no horário de aula) e um dia antes das aulas por mensagem de texto.
+* Papéis
+  * PO
+    * Membro do time de desenvolvimento, define as histórias e as prioriza. Tem a responsabilidade de manter a integridade conceitual das novas features e melhorias e também é responsável por manter a integração entre o time e o cliente.
+    * Atividades do PO:
+      * Refinar requisitos;
+      * Definir os critérios de aceitação das histórias planejadas;
+      * Revisar Sprint;
+      * Planejar Sprint.
+  * Scrum Master
+    * O Scrum Master procura assegurar que a equipe respeite e siga os valores e as práticas do Scrum, também atua como facilitador do Daily Meeting, e tenta assegurar o planejamento da Sprint nos limites de entrega da equipe de desenvolvimento.
+    * Atividades do Scrum Master :
+      * Conduzir o Daily Meeting;
+      * Planeja a Sprint.
+* Realizar Stand-up:
+  * Alterar o nome da atividade para Meeting;
+  * Reuniões de equipe presencialmente duas vezes na semana \(no horário de aula\) e um dia antes das aulas por mensagem de texto.
 
 ## Processo de Medição
 
@@ -223,75 +218,46 @@ Falar sobre o método utilizado para definição das priorizações.
 
 ### Atividades de Definição
 
+| Atividade | Grau de Definição | Grau de Implementação | Ação de Melhoria | Prioridade | Justificativa |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+
+
+| Criar/Revisar plano de medição | FI | FI | - | - | - |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+
+
+| Estabelecer objetivos de medição | FI | FI | - | - | - |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+
+
+| Especificar questões | FI | FI | - | - | - |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+
+
+| Identificar métricas | FI | FI | - | - | - |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+
+
+| Validar objetivos, questões e métricas | NI | NI | Produzir um artefato que comprove a execução dessa atividade. | Must Have | A inexistência de um artefato que comprove a execução da atividade compromete a mitigação de problemas. |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+
+
 <table>
   <thead>
     <tr>
-      <th style="text-align:center">Atividade</th>
-      <th style="text-align:center">Grau de Definição</th>
-      <th style="text-align:center">Grau de Implementação</th>
-      <th style="text-align:center">Ação de Melhoria</th>
-      <th style="text-align:center">Prioridade</th>
-      <th style="text-align:center">Justificativa</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:center">Criar/Revisar plano de medição</td>
-      <td style="text-align:center">FI</td>
-      <td style="text-align:center">FI</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">Estabelecer objetivos de medição</td>
-      <td style="text-align:center">FI</td>
-      <td style="text-align:center">FI</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">Especificar questões</td>
-      <td style="text-align:center">FI</td>
-      <td style="text-align:center">FI</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">Identificar métricas</td>
-      <td style="text-align:center">FI</td>
-      <td style="text-align:center">FI</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">Validar objetivos, questões e métricas</td>
-      <td style="text-align:center">NI</td>
-      <td style="text-align:center">NI</td>
-      <td style="text-align:center">Produzir um artefato que comprove a execução dessa atividade.</td>
-      <td
-      style="text-align:center">Must Have</td>
-        <td style="text-align:center">A inexistência de um artefato que comprove a execução da atividade compromete
-          a mitigação de problemas.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">Definir rastreabilidade</td>
-      <td style="text-align:center">NI</td>
-      <td style="text-align:center">NI</td>
-      <td style="text-align:center">
+      <th style="text-align:left">Definir rastreabilidade</th>
+      <th style="text-align:left">NI</th>
+      <th style="text-align:left">NI</th>
+      <th style="text-align:left">
         <p>Detalhar a atividade e o processo de rastreio.</p>
         <p>Especificar documento de rastreabilidade.</p>
-      </td>
-      <td style="text-align:center">Must Have</td>
-      <td style="text-align:center">Os textos estão rasos e não servem como base para criar a rastreabilidade.</td>
+      </th>
+      <th style="text-align:left">Must Have</th>
+      <th style="text-align:left">Os textos estão rasos e não servem como base para criar a rastreabilidade.</th>
     </tr>
-  </tbody>
-</table>### Atividades de Coleta de Dados
-
-| Processo/Atividade | Grau de Definição | Grau de Implementação | Ação de Melhoria | Prioridade | Justificativa |
+  </thead>
+  <tbody></tbody>
+</table>| Processo/Atividade | Grau de Definição | Grau de Implementação | Ação de Melhoria | Prioridade | Justificativa |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Definição de Template para Coleta de Dados | FI | FI | - | - | - |
 | Coleta de Dados | LI | NY | Coletar dados. | Must Have | Os dados devem ser coletados para que a próxima etapa do processo possa ser realizada. |

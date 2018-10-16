@@ -10,5 +10,7 @@
 
 ## 2018.2
 
-* [Processo de Priorização de Melhorias](2018.2/processo-de-priorizacao-de-melhorias.md)
+* [Estabelecimento](2018.2/estabelecimento/README.md)
+  * [Processo de Priorização de Melhorias](2018.2/estabelecimento/processo-de-priorizacao-de-melhorias.md)
+  * [Propostas de Melhorias](2018.2/estabelecimento/propostas-de-melhorias.md)
 
