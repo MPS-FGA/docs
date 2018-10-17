@@ -2,7 +2,9 @@
 
 ## Introdução
 
-Este artefato ....
+Este artefato tem o intuito de detalhar o plano de melhorias traçado pela equipe de processos e discutido em sala com as outras equipes. As propostas foram aprovadas no dia 16 de Outubro de 2018 e estão disponíveis no link abaixo.
+
+{% page-ref page="processo-de-priorizacao-de-melhorias.md" %}
 
 ## Priorização
 
