@@ -283,7 +283,9 @@ Falar sobre o método utilizado para definição das priorizações.
       <td style="text-align:left">Os textos estão rasos e não servem como base para criar a rastreabilidade.</td>
     </tr>
   </tbody>
-</table>| Processo/Atividade | Grau de Definição | Grau de Implementação | Ação de Melhoria | Prioridade | Justificativa |
+</table>### Atividades de Coleta de Dados
+
+| Processo/Atividade | Grau de Definição | Grau de Implementação | Ação de Melhoria | Prioridade | Justificativa |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Definição de Template para Coleta de Dados | FI | FI | - | - | - |
 | Coleta de Dados | LI | NY | Coletar dados. | Must Have | Os dados devem ser coletados para que a próxima etapa do processo possa ser realizada. |
