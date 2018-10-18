@@ -8,7 +8,11 @@ Este artefato tem o intuito de detalhar o plano de melhorias traçado pela equip
 
 ## Priorização
 
-Os _GAPs_ encontrados foram priorizados utilizando o método MoSCoW. \(Colocar Link para a página e falar mais sobre como foi feito\)
+A priorização foi feito por meio da metodologia MoSCoW, que é uma técnica muito utilizada para priorização de escopo, priorização de requisitos, classificação de mudanças.
+
+Os _GAPs_ encontrados foram priorizados e estão disponíveis no link abaixo.
+
+{% page-ref page="processo-de-priorizacao-de-melhorias.md" %}
 
 ## Propostas de Melhoria
 
