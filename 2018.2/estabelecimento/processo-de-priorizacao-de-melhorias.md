@@ -238,78 +238,11 @@ Falar sobre o método utilizado para definição das priorizações.
 | Processo/Atividade | Grau de Definição | Grau de Implementação | Ação de Melhoria | Prioridade | Justificativa |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Separação de Milestones | FI | NI | Criação e utilização de milestone. | Should Have | A separação de milestones é importante para a melhor organização das tarefas, apresentando em qual ciclo do projeto elas foram realizadas. |
-| Utilização do Kanban | FI | PI | Atualizar o zenhub. | Should Have | Utilizar o kanban é de grande importancia para que, tanto o time quanto observadores, estejam aptos a saber o progresso do trabalho. |
+| Utilização do Kanban | FI | PI | Atualizar o zenhub. | Should Have | Utilizar o kanban é de grande importância para que, tanto o time quanto observadores, estejam aptos a saber o progresso do trabalho. |
 | Utilização de Labels | FI | FI | - | - | - |
-| Burndown | FI | NI | Tirar o burndow do processo. | Should Have | Todo projeto que possui trabalho mensuravel por tempo pode possuir um burndown, porém é dispensável. |
+| Burndown | FI | NI | Tirar o burndow do processo. | Should Have | Todo projeto que possui trabalho mensurável por tempo pode possuir um burndown, porém é dispensável. |
 
 ### Políticas de Garantia de Qualidade 
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Atividade</th>
-      <th style="text-align:left">Grau de Definição</th>
-      <th style="text-align:left">Grau de Implementação</th>
-      <th style="text-align:left">Ação de Melhoria</th>
-      <th style="text-align:left">Prioridade</th>
-      <th style="text-align:left">Justificativa</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Criar/Revisar plano de medição</td>
-      <td style="text-align:left">FI</td>
-      <td style="text-align:left">FI</td>
-      <td style="text-align:left">-</td>
-      <td style="text-align:left">-</td>
-      <td style="text-align:left">-</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Estabelecer objetivos de medição</td>
-      <td style="text-align:left">FI</td>
-      <td style="text-align:left">FI</td>
-      <td style="text-align:left">-</td>
-      <td style="text-align:left">-</td>
-      <td style="text-align:left">-</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Especificar questões</td>
-      <td style="text-align:left">FI</td>
-      <td style="text-align:left">FI</td>
-      <td style="text-align:left">-</td>
-      <td style="text-align:left">-</td>
-      <td style="text-align:left">-</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Identificar métricas</td>
-      <td style="text-align:left">FI</td>
-      <td style="text-align:left">FI</td>
-      <td style="text-align:left">-</td>
-      <td style="text-align:left">-</td>
-      <td style="text-align:left">-</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Validar objetivos, questões e métricas</td>
-      <td style="text-align:left">NI</td>
-      <td style="text-align:left">NI</td>
-      <td style="text-align:left">Validar objetivos, questões e métricas</td>
-      <td style="text-align:left">Must Have</td>
-      <td style="text-align:left">A inexistência de um artefato que comprove a execução da atividade compromete
-        a mitigação de problemas.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Definir rastreabilidade</td>
-      <td style="text-align:left">NI</td>
-      <td style="text-align:left">NI</td>
-      <td style="text-align:left">
-        <p>Detalhar a atividade e o processo de rastreio.</p>
-        <p>Especificar documento de rastreabilidade.</p>
-      </td>
-      <td style="text-align:left">Must Have</td>
-      <td style="text-align:left">Os textos estão rasos e não servem como base para criar a rastreabilidade.</td>
-    </tr>
-  </tbody>
-</table>### Atividades de Coleta de Dados
 
 | Processo/Atividade | Grau de Definição | Grau de Implementação | Ação de Melhoria | Prioridade | Justificativa |
 | :--- | :--- | :--- | :--- | :--- | :--- |
