@@ -8,15 +8,15 @@ Este artefato tem por objetivo disponibilizar o processo de garantia da qualidad
 
 #### 2.1 Processo de Garantia da Qualidade
 
-![Imagem 1: Processo de GQA.](.gitbook/assets/processo-de-garantia-da-qualidade.png)
+![Imagem 1: Processo de GQA.](../.gitbook/assets/processo-de-garantia-da-qualidade.png)
 
 #### 2.2 Sub-Processo Planejar Auditorias do Ciclo
 
-![Imagem 2: Subprocesso de planejar auditorias.](.gitbook/assets/sub-processo-planejar-auditorias-do-ciclo.png)
+![Imagem 2: Subprocesso de planejar auditorias.](../.gitbook/assets/sub-processo-planejar-auditorias-do-ciclo.png)
 
 #### 2.3 Sub-Processo Executar Auditoria
 
-![Imagem 3: Subprocesso de planejar auditorias.](.gitbook/assets/sub-processo-executar-auditoria.png)
+![Imagem 3: Subprocesso de planejar auditorias.](../.gitbook/assets/sub-processo-executar-auditoria.png)
 
 ## 3. Descrição de atividades do processo
 
