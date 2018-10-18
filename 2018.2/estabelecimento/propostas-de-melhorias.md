@@ -28,6 +28,10 @@ Falar sobre as melhorias para as atividades de planejamento.
 
 Idem
 
+#### Coleta de Dados
+
+....
+
 #### Atividades de Interpretação
 
 Idem
