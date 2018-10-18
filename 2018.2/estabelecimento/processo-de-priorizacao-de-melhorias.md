@@ -218,6 +218,32 @@ Falar sobre o método utilizado para definição das priorizações.
 
 ### Atividades de Definição
 
+| Processo/Atividade | Grau de Definição | Grau de Implementação | Ação de Melhoria | Prioridade | Justificativa |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Definição de Template para Coleta de Dados | FI | FI | - | - | - |
+| Coleta de Dados | LI | NY | Coletar dados. | Must Have | Os dados devem ser coletados para que a próxima etapa do processo possa ser realizada. |
+
+### Atividades de Interpretação
+
+| Processo/Atividade | Grau de Definição | Grau de Implementação | Ação de Melhoria | Prioridade | Justificativa |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Analisar Dados | LI | NY | Analisar dados. | Must Have | - |
+| Comunicar Resultado | LI | NY | Todos os resultados devem ser postados na wiki e comunicados através de issues no GitHub | Must Have | Falta centralização e transparência dos resultados obtidos |
+| Identificar Melhorias | LI | NY | As melhorias devem ser identificadas em forma de planilhas deixando claras as atividades a serem refatoradas. | Must Have | As melhorias precisam ser documentadas de maneira clara para facilitar a execução. |
+
+## Processo da Garantia de Qualidade
+
+### Acompanhamento de Atividades
+
+| Processo/Atividade | Grau de Definição | Grau de Implementação | Ação de Melhoria | Prioridade | Justificativa |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Separação de Milestones | FI | NI | Criação e utilização de milestone. | Should Have | A separação de milestones é importante para a melhor organização das tarefas, apresentando em qual ciclo do projeto elas foram realizadas. |
+| Utilização do Kanban | FI | PI | Atualizar o zenhub. | Should Have | Utilizar o kanban é de grande importancia para que, tanto o time quanto observadores, estejam aptos a saber o progresso do trabalho. |
+| Utilização de Labels | FI | FI | - | - | - |
+| Burndown | FI | NI | Tirar o burndow do processo. | Should Have | Todo projeto que possui trabalho mensuravel por tempo pode possuir um burndown, porém é dispensável. |
+
+### Políticas de Garantia de Qualidade 
+
 <table>
   <thead>
     <tr>
@@ -287,35 +313,25 @@ Falar sobre o método utilizado para definição das priorizações.
 
 | Processo/Atividade | Grau de Definição | Grau de Implementação | Ação de Melhoria | Prioridade | Justificativa |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Definição de Template para Coleta de Dados | FI | FI | - | - | - |
-| Coleta de Dados | LI | NY | Coletar dados. | Must Have | Os dados devem ser coletados para que a próxima etapa do processo possa ser realizada. |
+| Política de Resultados da Auditoria | FI | FI | - | - | - |
+| Política de Não Conformidades | FI | LI | Será tirada a utilização da matriz GUT. | Should have | À matriz GUT tem uma alta complexidade de documentação que não reflete nos benefícios que ela trás para o processo atual. |
 
-### Atividades de Interpretação
-
-| Processo/Atividade | Grau de Definição | Grau de Implementação | Ação de Melhoria | Prioridade | Justificativa |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Analisar Dados | LI | NY | Analisar dados. | Must Have | - |
-| Comunicar Resultado | LI | NY | Todos os resultados devem ser postados na wiki e comunicados através de issues no GitHub | Must Have | Falta centralização e transparência dos resultados obtidos |
-| Identificar Melhorias | LI | NY | As melhorias devem ser identificadas em forma de planilhas deixando claras as atividades a serem refatoradas. | Must Have | As melhorias precisam ser documentadas de maneira clara para facilitar a execução. |
-
-## Processo da Garantia de Qualidade
-
-### Atividades de Planejamento
+### Planejamento de Auditorias
 
 | Processo/Atividade | Grau de Definição | Grau de Implementação | Ação de Melhoria | Prioridade | Justificativa |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Separação de Milestones | FI | NI | Criação e utilização de milestone. | Should Have | A separação de milestones é importante para a melhor organização das tarefas, apresentando em qual ciclo do projeto elas foram realizadas. |
-| Utlização do Kanban | FI | PI | Atualizar o zenhub. | Should Have | Utilizar o kanban é de grande importancia para que, tanto o time quanto observadores, estejam aptos a saber o progresso do trabalho. |
-| Utilização de Labels | FI | FI | - | - | - |
-| Burndown | FI | NI | Gerar o burndown a partir do zenhub. | Could Have | Todo projeto que possui trabalho mensuravel por tempo pode possuir um burndown, porém é dispensável. |
+| Estimar quantidade de auditorias | FI | PI | Executar etapa no projeto Grimório Mestre. | Must Have | Etapa executada apenas no projeto Avaleasy. |
+| Estimar datas de auditorias | FI | PI | Executar etapa no projeto Grimório Mestre. | Must Have | Etapa executada apenas no projeto Avaleasy. |
+| Selecionar objetos de auditorias | FI | PI | Executar etapa no projeto Grimório Mestre. | Must Have | Etapa executada apenas no projeto Avaleasy. |
+| Alocar auditores | FI | PI | Executar etapa no projeto Grimório Mestre. | Must Have | Etapa executada apenas no projeto Avaleasy. |
 
-### Atividades de Auditoria
+### Execução das Auditorias
 
 | Processo/Atividade | Grau de Definição | Grau de Implementação | Ação de Melhoria | Prioridade | Justificativa |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Definir objeto de auditoria | FI | FI | - | - | - |
-| Uso de Checklist | FI | LI | Terminar de implementar o checklist em todos as auditorias. Atualmente apenas 6 de 10 foram implementadas. | Must Have | O checklist é um elemento essencial para a aplicação e relato dos resultados da auditoria. |
-| Realização de Entrevista | FI | LI | Terminar de relatar as entrevistas em todos as auditorias. Atualmente apenas 6 de 10 foram implementadas. | Must Have | É importante ter o relato das entrevistas, para registro e identificação de não conformidades e pontos de melhoria. |
-| Levantar Não Conformidades | FI | LI | Terminar de relatar as não conformidade em todos as auditorias. Atualmente apenas 6 de 10 foram relatadas. | Must Have | O relato das conformidades/não conformidades é o objetivo principal da aplicaçao de auditorias. |
-| Resultado do Ciclo | FI | NY | O projeto ainda não alcaçou este estágio no ciclo de vida. | - | - |
+| Preparar execução da auditoria | FI | PI | Executar etapa no projeto Grimório Mestre. | Must Have | Etapa executada apenas no projeto Avaleasy. |
+| Executar auditorias planejada | FI | PI | Executar etapa no projeto Grimório Mestre. | Must Have | Etapa executada apenas no projeto Avaleasy. |
+| Documentar resultados da auditoria | FI | PI | Executar etapa no projeto Grimório Mestre. | Must Have | Etapa executada apenas no projeto Avaleasy. |
+| Documentar resultados do ciclo | FI | NI | Documentar os resultados do ciclo 1. | Must Have | Os resultados do ciclo são importantes para se ter um panorama geral da qualidade do projeto. |
+| Reportar não conformidade aos gerentes | FI | FI | - | - | - |
 

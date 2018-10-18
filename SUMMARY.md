@@ -5,6 +5,7 @@
 * [Processo de Medição e Análise](atividades-de-medicao.md)
 * [Processo de Desenvolvimento](processo-desenvolvimento.md)
 * [Inspirações para o Processo](inspiracoes-para-o-processo.md)
+* [Plano de Medição](plano-de-medicao.md)
 * [Processo de Gestão de Qualidade](processo-de-gestao-de-qualidade/README.md)
   * [Políticas](processo-de-gestao-de-qualidade/politicas/README.md)
     * [Política de Resultados das Auditorias](processo-de-gestao-de-qualidade/politicas/politica-de-resultados-das-auditorias.md)
@@ -12,7 +13,6 @@
     * [Políticas de Garantia de Qualidade](processo-de-gestao-de-qualidade/politicas/politicas-de-garantia-de-qualidade.md)
     * [Política de Gestão de Conhecimento](processo-de-gestao-de-qualidade/politicas/politica-de-gestao-de-conhecimento.md)
   * [Processo de Gestão de Qualidade](processo-de-gestao-de-qualidade/processo-de-gestao-de-qualidade.md)
-* [Plano de Medição](plano-de-medicao.md)
 
 ## 2018.2
 
