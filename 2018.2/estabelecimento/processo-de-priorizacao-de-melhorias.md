@@ -85,9 +85,7 @@ Falar sobre o método utilizado para definição das priorizações.
       <td style="text-align:left">O projeto não alcançou o estágio esperado no ciclo de vida.</td>
     </tr>
   </tbody>
-</table>
-
-## Processo de Desenvolvimento
+</table>## Processo de Desenvolvimento
 
 ### Atividades de Planejamento
 
@@ -166,9 +164,7 @@ Falar sobre o método utilizado para definição das priorizações.
         ser direcionada a uma equipe específica para esta proposta.</td>
     </tr>
   </tbody>
-</table>
-
-### Atividades de Desenvolvimento
+</table>### Atividades de Desenvolvimento
 
 | Atividade | Grau de Definição | Grau de Implementação | Ação de Melhoria | Prioridade | Justificativa |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -216,7 +212,7 @@ Falar sobre o método utilizado para definição das priorizações.
 | Utilização de Labels | FI | FI | - | - | - |
 | Burndown | FI | NI | Tirar o burndow do processo. | Should Have | Todo projeto que possui trabalho mensurável por tempo pode possuir um burndown, porém é dispensável. |
 
-### Políticas de Garantia de Qualidade 
+### Políticas de Garantia de Qualidade
 
 | Processo/Atividade | Grau de Definição | Grau de Implementação | Ação de Melhoria | Prioridade | Justificativa |
 | :--- | :--- | :--- | :--- | :--- | :--- |
