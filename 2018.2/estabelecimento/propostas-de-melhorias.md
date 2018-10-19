@@ -105,31 +105,55 @@ A atividade de revisar deve ser atribuída ao PO ao invés do Scrum Master.
 
 **Separação de Milestones**
 
+Fazer o uso de milestones que é importante para garantir a organização das tarefas, documentando em qual ciclo do projeto elas foram realizadas.
+
 **Utilização do Kanban**
 
+Utilizar o Kanban para possibilitar o acompanhamento do progresso do trabalho tanto para o time quanto para observadores.
+
 **Burndown**
+
+O burndown se mostrou dispensável para o acompanhamento das atividades.
 
 #### Políticas de Garantia da Qualidade
 
 **Política de Não Conformidades**
 
+Tirar a utilização da matriz GUT, pois ela tem uma alta complexidade de documentação que não está refletindo em benefícios para o processo atual.
+
 #### Planjamento de Auditorias
 
 **Estimar Quantidade de Auditorias**
 
+Essa etapa foi executada apenas no projeto Avaleasy. Para contemplar todas as equipes de desenvolvimento, essa etapa deve ser aplicada no projeto Grimório Mestre.
+
 **Estimar Datas de Auditorias**
+
+Essa etapa foi executada apenas no projeto Avaleasy. Para contemplar todas as equipes de desenvolvimento, essa etapa deve ser aplicada no projeto Grimório Mestre.
 
 **Selecionar Objetos de Auditorias**
 
+Essa etapa foi executada apenas no projeto Avaleasy. Para contemplar todas as equipes de desenvolvimento, essa etapa deve ser aplicada no projeto Grimório Mestre.
+
 **Alocar Auditores**
+
+Essa etapa foi executada apenas no projeto Avaleasy. Para contemplar todas as equipes de desenvolvimento, essa etapa deve ser aplicada no projeto Grimório Mestre.
 
 #### Execução da Auditorias
 
 **Preparar Execução da Auditoria**
 
+Essa etapa foi executada apenas no projeto Avaleasy. Para contemplar todas as equipes de desenvolvimento, essa etapa deve ser aplicada no projeto Grimório Mestre.
+
 **Executar Auditorias Planejadas**
+
+Essa etapa foi executada apenas no projeto Avaleasy. Para contemplar todas as equipes de desenvolvimento, essa etapa deve ser aplicada no projeto Grimório Mestre.
 
 **Documentar Resultados da Auditoria**
 
+Essa etapa foi executada apenas no projeto Avaleasy. Para contemplar todas as equipes de desenvolvimento, essa etapa deve ser aplicada no projeto Grimório Mestre.
+
 **Documentar Resultados do Ciclo**
+
+Fazer a documentação dos resultados do primeiro ciclo para ter um panorama geral da qualidade do projeto.
 
