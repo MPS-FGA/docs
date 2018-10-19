@@ -7,7 +7,6 @@
 ### 0.1.1. Requisitos ​\(da release\)
 
 * **Descrição** Este subprocesso diz respeito a etapa de coleta de requisitos para a compreensão do problema. São coletados requisitos a nível de Release \(épicos, features\).
-
 * **Responsável** Time de desenvolvimento
 * **Participantes** Time de desenvolvimento
 * **Produto Gerado** Backlog do produto
@@ -38,7 +37,6 @@
 ### 0.1.3. Desenvolver
 
 * **Descrição** ​Subprocesso de desenvolvimento onde são construídos os incrementos de software.
-
 * **Responsável** Time de desenvolvimento
 * **Participantes** Time de desenvolvimento
 * **Produto Gerado**
@@ -50,7 +48,6 @@
 ### 0.1.4. Treinar novos membros
 
 * **Descrição** ​Nesta etapa do processo os membros de cada área são responsáveis por passar todas as informações necessárias de suas áreas de trabalho, seja desenvolvimento, qualidade ou processo, para que a equipe seguinte continue o trabalho de forma efetiva.
-
 * **Responsável**
   * Time de desenvolvimento
   * time de processo
@@ -66,7 +63,6 @@
 ### 0.1.5. Trocar Equipes
 
 * **Descrição** Nesta etapa as equipes são trocadas e assumem cada uma seu novo papel na elaboração do projeto, reiniciando o ciclo.
-
 * **Responsável**
   * Time de desenvolvimento
   * time de processo
@@ -94,13 +90,16 @@
 Membro do time de desenvolvimento, define as histórias e as prioriza. Tem a responsabilidade de manter a integridade conceitual das novas features e melhorias e também é responsável por manter a integração entre o time e o cliente.
 
 **Atividades do PO**:
-* Planejar Sprint (definir os critérios de aceitação das histórias planejadas).
+
+* Planejar Sprint \(definir os critérios de aceitação das histórias planejadas\).
 * Revisar Sprint;
 
 #### 1.1.2. Scrum Master
+
 O Scrum Master procura assegurar que a equipe respeite e siga os valores e as práticas do Scrum, também atua como facilitador do Daily Meeting, e tenta assegurar o planejamento da Sprint nos limites de entrega da equipe de desenvolvimento.
 
 **Atividades do Scrum Master** :
+
 * Conduzir o Daily Meeting;
 * Planejar a Sprint.
 
@@ -123,7 +122,6 @@ Equipe responsável pela implementação das features propostas para a construç
 #### 1.2.1 Requisitos \(da sprint\)
 
 * **Descrição** Este subprocesso diz respeito a etapa de coleta de requisitos para a compreensão do problema, e é explicado mais detalhadamente na seção 2.2 deste documento. Ressalta-se que aqui são coletados requisitos a nível de sprint.
-
 * **Responsável** Scrum Master.
 * **Participantes** Scrum Master, Product Owner, time de desenvolvimento.\_
 * **Produto Gerado** Backlog da Realese Refinado.
@@ -199,7 +197,6 @@ Equipe responsável pela implementação das features propostas para a construç
 #### 1.2.7. Revisar
 
 * **Descrição:** Detalhar o que foi feito, o que não foi feito, e os motivos que levaram a esses resultados.
-
 * **Responsável** PO.
 * **Participantes** PO, Scrum Master e time de desenvolvimento.
 * **Produto Gerado** Backlog da sprint refinado.
@@ -233,7 +230,6 @@ Equipe responsável pela implementação das features propostas para a construç
 #### 2.1.1. Elicitar Requisitos
 
 * **Descrição** ​Nesta etapa do processo é realizada uma interação com o cliente, seja por reunião, brainstorming ou qualquer outra técnica, e nela deve ser entendido o problema e as necessidades do cliente.
-
 * **Responsável** Equipe de desenvolvimento
 * **Participantes** Cliente e equipe de desenvolvimento
 * **Produto Gerado** Lista informal de requisitos
@@ -246,27 +242,25 @@ Equipe responsável pela implementação das features propostas para a construç
 #### 2.1.2. Analisar Requisitos
 
 * **Descrição:** ​Nesta etapa os requisitos levantados com o cliente são analisados pelos membros para decidir quais são viáveis de execução dentro do escopo da release.
-
 * **Responsável** Equipe de desenvolvimento
 * **Participantes** Equipe de desenvolvimento
 * **Produto Gerado** Requisitos
 * **Próxima Atividade** Documentar Requisitos
 * **Tarefas** 
-    * Decidir requisitos viáveis para a execução da release
+  * Decidir requisitos viáveis para a execução da release
 
 #### 2.1.3. Documentar Requisitos
-* **Descrição:** ​Nesta etapa os conhecimentos adquiridos na fase de elicitação são lapidados e documentados no backlog do produto, onde serão definidos todos os épicos e features da release.
 
+* **Descrição:** ​Nesta etapa os conhecimentos adquiridos na fase de elicitação são lapidados e documentados no backlog do produto, onde serão definidos todos os épicos e features da release.
 * **Responsável** Equipe de desenvolvimento
 * **Participantes** Equipe de desenvolvimento
 * **Produto Gerado** Backlog
 * **Próxima Atividade** Validar Requisitos
 * **Tarefas** Elaborar um documento de épicos e features relacionados aos requisitos levantados e viabilizados.
 
-
 #### 2.1.4. Validar Requisitos
-* **Descrição:** ​Após elaborar o backlog o mesmo deve ser mostrado ao cliente para sua aprovação. Caso seja aprovado, o processo de requisitos está finalizado, caso contrário, volta-se para a etapa de elicitação.
 
+* **Descrição:** ​Após elaborar o backlog o mesmo deve ser mostrado ao cliente para sua aprovação. Caso seja aprovado, o processo de requisitos está finalizado, caso contrário, volta-se para a etapa de elicitação.
 * **Responsável** Equipe de desenvolvimento
 * **Participantes** Cliente e equipe de desenvolvimento
 * **Produto Gerado** Backlog validado

@@ -18,7 +18,12 @@ Os _GAPs_ encontrados foram priorizados e estão disponíveis no link abaixo.
 
 ### Processo de Medição
 
-A equipe de medição utiliza o método GQM para realizar as medições \(falar um pouco do GQM e como as propostas foram elaboradas para o processo.\)
+A medição é a base para a melhoria de processos, sem ela fica difícil identificar o que e quanto algum processo do projeto tem alguma melhoria e as ações para a melhoria são voltadas ao aprimoramento e a correção dos possíveis problemas do projeto.
+
+A equipe de medição utiliza o método GQM para realizar as medições. O GQM \(Goal Question Metric\) é um método simples para planejar medições de forma que estas sejam baseadas em objetivos específicos de medição. 
+
+Foi aplicado o GQM para planejar o processo de medição, sendo que foi definido o objetivo da medição \(GOAL\), a questão a ser respondida \(QUESTION\) e as métricas que respondem a questão respondida \(METRIC\).  
+
 
 #### Atividades de Planejamento
 
