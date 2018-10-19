@@ -27,11 +27,23 @@ Foi aplicado o GQM para planejar o processo de medição, sendo que foi definido
 
 #### Atividades de Planejamento
 
-Falar sobre as melhorias para as atividades de planejamento.
+**Definir Área de Melhoria**
+
+Essa ação de melhoria será feita quando a equipe julgar necessária, quando houver uma área de melhoria definida. Essa ação será registrada através de da documentação dos artefatos.
+
+#### Estabelecer e Treinar Time GQM
+
+O plano de treinamento será feito por conta própria pelos integrantes da equipe de GQM. Ocorrerá por meio de conteúdo disponível de livre acesso tal como vídeos e artigos, tais decisões sobre como alinhar o conhecimento sobre o assunto será feito internamente pela equipe.
 
 #### Atividades de Definição
 
-Idem
+**Validar Objetivos, Questões e Métricas**
+
+Será validado com todo o time as medições do GQM tais como seus objetivos, questões e métricas. Será feito um artefato para documentação de todo o processo.
+
+**Definir Rastreabilidade**
+
+O processo de rastreio terá que ser detalhado e será desenvolvido um documento pela equipe contendo todo o rastreamento.
 
 #### Coleta de Dados
 
