@@ -291,6 +291,7 @@ Equipe responsável pela implementação das features propostas para a construç
 * **Tarefas** Reunir a equipe e discutir os requisitos
 
 #### 2.1.3. Refinar Requisitos
+
 * **Descrição** ​Se já há requisitos levantados, estes serão apenas refinados, se houver necessidade
 * **Responsável** Equipe de desenvolvimento
 * **Participantes** Equipe de desenvolvimento e Jonathan Moraes
@@ -300,8 +301,8 @@ Equipe responsável pela implementação das features propostas para a construç
   * Reunir com o cliente e discutir os requisitos elicitados
   * Ajustar os requisitos de acordo com o feedback do cliente
 
-
 #### 2.1.4. Documentar Requisitos
+
 * **Descrição:** ​Nesta etapa os conhecimentos adquiridos na fase de elicitação são lapidados e
 
   documentados no backlog do produto, onde serão definidas todas as features do projeto.
@@ -312,8 +313,8 @@ Equipe responsável pela implementação das features propostas para a construç
 * **Próxima Atividade** Validar Requisitos
 * **Tarefas** Elaborar um documento e registrar tudo aquilo que convém e é necessário a respeito dos requisitos do sistema
 
-
 #### 2.1.5. Validar Requisitos
+
 * **Descrição:** ​Após elaborar o backlog o mesmo deve ser mostrado ao cliente para sua
 
   aprovação, caso seja aprovado, então o processo de requisitos está finalizado, caso
