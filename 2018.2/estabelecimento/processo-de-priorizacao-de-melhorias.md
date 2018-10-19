@@ -85,7 +85,9 @@ Falar sobre o método utilizado para definição das priorizações.
       <td style="text-align:left">O projeto não alcançou o estágio esperado no ciclo de vida.</td>
     </tr>
   </tbody>
-</table>## Processo de Desenvolvimento
+</table>
+
+## Processo de Desenvolvimento
 
 ### Atividades de Planejamento
 
@@ -164,16 +166,7 @@ Falar sobre o método utilizado para definição das priorizações.
         ser direcionada a uma equipe específica para esta proposta.</td>
     </tr>
   </tbody>
-</table>#### Especificações de Melhorias
-
-* Analisar requisitos
-  * Discutir os requisitos levantados previamente com o cliente;
-  * Documentar os requisitos;
-  * Analisar os requisitos levantados para garantir que o escopo é viável, mantendo diminuindo ou aumentando o que foi definido.
-* Documentar requisitos
-  * O backlog deve ser definido no modelo de épicos, features e histórias.
-* Planejar Release
-  * Retirar planejar auditoria das tarefas.
+</table>
 
 ### Atividades de Desenvolvimento
 
@@ -186,25 +179,6 @@ Falar sobre o método utilizado para definição das priorizações.
 | Integrar | FI | FI | - | - | - |
 | Revisar | FI | FI | - | - | - |
 | Realizar Retrospectiva | FI | FI | - | - | - |
-
-#### Especificações de Melhorias
-
-* Papéis
-  * PO
-    * Membro do time de desenvolvimento, define as histórias e as prioriza. Tem a responsabilidade de manter a integridade conceitual das novas features e melhorias e também é responsável por manter a integração entre o time e o cliente.
-    * Atividades do PO:
-      * Refinar requisitos;
-      * Definir os critérios de aceitação das histórias planejadas;
-      * Revisar Sprint;
-      * Planejar Sprint.
-  * Scrum Master
-    * O Scrum Master procura assegurar que a equipe respeite e siga os valores e as práticas do Scrum, também atua como facilitador do Daily Meeting, e tenta assegurar o planejamento da Sprint nos limites de entrega da equipe de desenvolvimento.
-    * Atividades do Scrum Master :
-      * Conduzir o Daily Meeting;
-      * Planeja a Sprint.
-* Realizar Stand-up:
-  * Alterar o nome da atividade para Meeting;
-  * Reuniões de equipe presencialmente duas vezes na semana \(no horário de aula\) e um dia antes das aulas por mensagem de texto.
 
 ## Processo de Medição
 
