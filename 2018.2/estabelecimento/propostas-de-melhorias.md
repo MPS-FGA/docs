@@ -22,8 +22,7 @@ A medição é a base para a melhoria de processos, sem ela fica difícil identi
 
 A equipe de medição utiliza o método GQM para realizar as medições. O GQM \(Goal Question Metric\) é um método simples para planejar medições de forma que estas sejam baseadas em objetivos específicos de medição. 
 
-Foi aplicado o GQM para planejar o processo de medição, sendo que foi definido o objetivo da medição \(GOAL\), a questão a ser respondida \(QUESTION\) e as métricas que respondem a questão respondida \(METRIC\).  
-
+Foi aplicado o GQM para planejar o processo de medição, sendo que foi definido o objetivo da medição \(GOAL\), a questão a ser respondida \(QUESTION\) e as métricas que respondem a questão respondida \(METRIC\).
 
 #### Atividades de Planejamento
 
@@ -45,17 +44,19 @@ Será validado com todo o time as medições do GQM tais como seus objetivos, qu
 
 O processo de rastreio terá que ser detalhado e será desenvolvido um documento pela equipe contendo todo o rastreamento.
 
-#### Coleta de Dados
-
-....
-
 #### Atividades de Interpretação
 
-Idem
+Realizar interpretação dos dados coletados durante as sprints anteriores à data de **18 de outubro de 2018**,  de forma a identificar possíveis melhorias para os projetos analisados.
+
+Os resultados da análise deverão ser comunicados e documentados pela equipe de medição em forma páginas, planilhas, gráficos e outros meios que facilitem a visualização de membros das outras equipes.
+
+Além disso, para facilitar o acesso as informações geradas pela equipe de medição, recomenda-se que a equipe utilize este website para armazenar os artefatos já existentes e os que serão criados.
 
 #### Estratégia de Aplicação
 
-Falar sobre a estratégia de aplicação das melhorias definidas com a equipe de medição.
+As ações anteriormente descritas devem ser aplicadas ao longo da próximas sprints, a partir da data de **18 de outubro de 2018**, de forma que sejam analisadas pela equipe de processo, afim de identificar dificuldades enfrentadas pela equipe de medição, podendo-se, posteriormente, realizar ajustes para remover tais impedimentos e facilitar o trabalho da equipe.
+
+Para avaliar a implementação das ações propostas a equipe de processo utilizará métricas que serão definidas em colaboração com outras equipes em um documento a ser desenvolvido posteriormente.
 
 ### Processo de Desenvolvimento
 
