@@ -13,6 +13,12 @@
     * [Políticas de Garantia de Qualidade](processo-de-gestao-de-qualidade/politicas/politicas-de-garantia-de-qualidade.md)
     * [Política de Gestão de Conhecimento](processo-de-gestao-de-qualidade/politicas/politica-de-gestao-de-conhecimento.md)
   * [Processo de Gestão de Qualidade](processo-de-gestao-de-qualidade/processo-de-gestao-de-qualidade.md)
+  * [Templates](processo-de-gestao-de-qualidade/templates/README.md)
+    * [Template de Resultado Do Ciclo](processo-de-gestao-de-qualidade/templates/template-de-resultado-do-ciclo.md)
+    * [Template de Resultado da Auditoria](processo-de-gestao-de-qualidade/templates/template-de-resultado-da-auditoria.md)
+    * [Template Checklist](processo-de-gestao-de-qualidade/templates/template-checklist.md)
+    * [Template Entrevista](processo-de-gestao-de-qualidade/templates/template-entrevista.md)
+    * [Template de Não Conformidade](processo-de-gestao-de-qualidade/templates/template-de-nao-conformidade.md)
 
 ## 2018.2
 
