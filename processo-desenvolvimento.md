@@ -1,6 +1,6 @@
 # Processo de Desenvolvimento
 
-![Imagem 2- Processo do ciclo de desenvolvimento](https://i.imgur.com/MY3P5gI.png) [Imagem 2- Processo do ciclo de desenvolvimento](https://i.imgur.com/MY3P5gI.png)
+![processo-desenvolvimento](https://user-images.githubusercontent.com/18364727/47740754-5ae4a700-dc57-11e8-992b-5b676453d86d.png)
 
 ## 0.1. Atividades do processo
 
@@ -79,9 +79,7 @@
 
 ## 1. Subprocesso Desenvolvimento
 
-![Imagem 3- Subprocesso Desenvolvimento](https://i.imgur.com/XPiEKX2.jpg)
-
-[Imagem 3- Subprocesso Desenvolvimento](https://i.imgur.com/XPiEKX2.jpg)
+![subprocesso-desenvolvimento](https://user-images.githubusercontent.com/18364727/47740757-5b7d3d80-dc57-11e8-9904-d16d2316a3d5.png)
 
 ### 1.1. Papeis
 
@@ -223,7 +221,7 @@ Equipe responsável pela implementação das features propostas para a construç
 
 ## 2. Subprocesso Requisitos
 
-![Imagem 4 - Subprocesso Requisitos](https://i.imgur.com/idxEZjH.png) [Subprocesso Requisitos](https://i.imgur.com/idxEZjH.png)
+![subprocesso-requisitos](https://user-images.githubusercontent.com/18364727/47740759-5c15d400-dc57-11e8-826f-5972465adf12.png)
 
 ### 2.2.1. Atividades do subprocesso de requisitos
 
