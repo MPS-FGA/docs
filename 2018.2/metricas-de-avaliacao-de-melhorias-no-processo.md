@@ -24,6 +24,26 @@
 | **Escala** | FILIPINY |
 | **Análise** |  |
 
+### 2.3 **Validar Objetivos, Questões e Métricas**
+
+| ID | 2.3 |
+| :--- | :--- |
+| **Nome** | Objetivos, questões e métricas |
+| **Objetivo da Medição** |  Validar com todo o time as medições do GQM tais como seus objetivos, questões e métricas. |
+| **Responsável pela coleta** | Equipe de Processo |
+| **Escala** | FILIPINY |
+| **Análise** |  |
+
+### 2.4 **Definir Rastreabilidade**
+
+| ID | 2.4 |
+| :--- | :--- |
+| **Nome** | Rastreabilidade |
+| **Objetivo da Medição** | Manter um rastreamento mais detalhado. |
+| **Responsável pela coleta** | Equipe de Processo |
+| **Escala** | FILIPINY |
+| **Análise** |  |
+
 ## 3. Processo de Garantia de Qualidade
 
 ### 3.1 Separação em Milestones
