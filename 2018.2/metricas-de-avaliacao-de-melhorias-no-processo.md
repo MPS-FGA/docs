@@ -44,6 +44,26 @@
 | **Escala** | FILIPINY |
 | **Análise** |  |
 
+### 2.5 Comunicar Resultado
+
+| ID | 2.5 |
+| :--- | :--- |
+| **Nome** | Resultado |
+| **Objetivo da Medição** | Facilitar a visualização dos resultados, para os membros das outras equipes. |
+| **Responsável pela coleta** | Equipe de Processo |
+| **Escala** | FILIPINY |
+| **Análise** |  |
+
+### 2.6 Identificar Melhorias
+
+| ID | 2.6 |
+| :--- | :--- |
+| **Nome** |  Melhorias |
+| **Objetivo da Medição** |  Identificar possíveis melhorias para os projetos analisados. |
+| **Responsável pela coleta** | Equipe de Processo |
+| **Escala** | FILIPINY |
+| **Análise** |  |
+
 ## 3. Processo de Garantia de Qualidade
 
 ### 3.1 Separação em Milestones
