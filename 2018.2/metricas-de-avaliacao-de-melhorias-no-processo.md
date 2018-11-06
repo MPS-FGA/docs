@@ -1,6 +1,340 @@
 # Métricas de Avaliação de Melhorias no Processo
 
 ## 1. Processo de Desenvolvimento
+### 1.1 Treinamento de novos membros
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">ID</th>
+      <th style="text-align:left">1.1</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
+      <td style="text-align:left">Treinamento</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Objetivo da Medição</b>
+      </td>
+      <td style="text-align:left">Definir se o treinamento de novas equipes no momento da rotação está sendo realizado.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Responsável pela coleta</b>
+      </td>
+      <td style="text-align:left">Equipe de Processo.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Escala</b>
+      </td>
+      <td style="text-align:left">FILIPINY</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Análise</b>
+      </td>
+      <td style="text-align:left">
+        <p>NY - O treinamento dos novos membros após a rotação não é realizado ainda.</p>
+        <p>FI - O treinamento dos novos membros após a rotação é realizado.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### 1.2 Planejamento da Sprint
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">ID</th>
+      <th style="text-align:left">1.2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
+      <td style="text-align:left">Planejamento da Sprint</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Objetivo da Medição</b>
+      </td>
+      <td style="text-align:left">Acompanhar o ritual de planejamento das Sprints.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Responsável pela coleta</b>
+      </td>
+      <td style="text-align:left">Equipe de Processo.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Escala</b>
+      </td>
+      <td style="text-align:left">A escala FILIPINY foi usada nesta métrica, mas, ao invés de definir uma escala de implementação conforme determinadas atividades são ou não realizadas, a escala cresce ou diminui conforme a quantidade de atividades, o grau de implementação de cada uma e o impacto delas para o sucesso da métrica.
+      <p>O grau de implementação varia de 0 - Not Implemented a 5 - Fully Implemented. O impacto varia de 1 - Baixo a 3 - Alto. Assim, a fórmula obtida para o cálculo final desta métrica é
+      <p>((Grau de implementação da Atividade 1 * Impacto da Atividade 1) + (Grau de Implementação da Atividade 2 * Impacto da Atividade 2) + ...)/ (Soma de todos os impactos)
+      <p>A partir deste resultado, podemos definir que quanto mais próximo de 5 for o resultado, mais próximo do ideal.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Análise</b>
+      </td>
+      <td style="text-align:left">
+        <p>O backlog é priorizado - Impacto: 2</p>
+        <p>As histórias são granularizadas a partir das features - Impacto: 3</p>
+        <p>As histórias são pontuadas através de planning poker - Impacto: 2</p>
+        <p>Histórias são definidas para a sprint - Impacto: 3</p>
+        <p>Pares são definidos - Impacto: 1</p>
+        <p>Pares são alocados para histórias - Impacto: 3</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### 1.3 Execução do desenvolvimento
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">ID</th>
+      <th style="text-align:left">1.3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
+      <td style="text-align:left">Desenvolvimento</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Objetivo da Medição</b>
+      </td>
+      <td style="text-align:left">Acompanhar o processo de gerar incrementos ao produto através de código.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Responsável pela coleta</b>
+      </td>
+      <td style="text-align:left">Equipe de Processo.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Escala</b>
+      </td>
+      <td style="text-align:left">FILIPINY</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Análise</b>
+      </td>
+      <td style="text-align:left">
+        <p>NI - Histórias não são entregues.</p>
+        <p>NY - Histórias são entregues sem testes.</p>
+        <p>LI - Histórias são entregues com alguns testes.</p>
+        <p>FI - Histórias são entregues completamente testadas.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### 1.4 Realização de Meeting
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">ID</th>
+      <th style="text-align:left">1.4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
+      <td style="text-align:left">Meeting</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Objetivo da Medição</b>
+      </td>
+      <td style="text-align:left">Mensurar o processo de comunicação das equipes.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Responsável pela coleta</b>
+      </td>
+      <td style="text-align:left">Equipe de Processo.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Escala</b>
+      </td>
+      <td style="text-align:left">FILIPINY</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Análise</b>
+      </td>
+      <td style="text-align:left">
+        <p>NI - Meeting não acontece.</p>
+        <p>PI - Meeting acontece com menor frequência do que o necessário e com a presença de todos os membros.</p>
+        <p>PI - Meeting acontece com a frequência correta e somente com a presença de alguns membros.</p>
+        <p>FI - Meeting acontece com a frequência correta e com a presença de todos os membros.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### 1.5 Revisão das Histórias
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">ID</th>
+      <th style="text-align:left">1.5</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
+      <td style="text-align:left">Revisão</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Objetivo da Medição</b>
+      </td>
+      <td style="text-align:left">Verificar se as histórias são revisadas de acordo com os seus requisitos.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Responsável pela coleta</b>
+      </td>
+      <td style="text-align:left">Equipe de Processo.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Escala</b>
+      </td>
+      <td style="text-align:left">FILIPINY</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Análise</b>
+      </td>
+      <td style="text-align:left">
+        <p>NI - As histórias desenvolvidas não são validadas com seus requisitos.</p>
+        <p>FI - As histórias desenvolvidas são validadas com seus requisitos.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### 1.6 Realização da Retrospectiva
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">ID</th>
+      <th style="text-align:left">1.6</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
+      <td style="text-align:left">Retrospectiva</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Objetivo da Medição</b>
+      </td>
+      <td style="text-align:left">Verificar o processo de revisão de pontos positivos, negativos e a melhorar das sprints.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Responsável pela coleta</b>
+      </td>
+      <td style="text-align:left">Equipe de Processo.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Escala</b>
+      </td>
+      <td style="text-align:left">FILIPINY</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Análise</b>
+      </td>
+      <td style="text-align:left">
+        <p>NI - Uma retrospectiva dos pontos bons, ruins e a melhorar da sprint não é realizada.</p>
+        <p>PI - Uma retrospectiva dos pontos bons, ruins e a melhorar da sprint é realizada com a presença de alguns membros. </p>
+        <p>FI - Uma retrospectiva dos pontos bons, ruins e a melhorar da sprint é realizada com a presença de todos os membros.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### 1.7 Definição inicial do escopo da release
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">ID</th>
+      <th style="text-align:left">1.7</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
+      <td style="text-align:left">Definição inicial do escopo</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Objetivo da Medição</b>
+      </td>
+      <td style="text-align:left">Verificar o processo de definição inicial do escopo da release.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Responsável pela coleta</b>
+      </td>
+      <td style="text-align:left">Equipe de Processo.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Escala</b>
+      </td>
+      <td style="text-align:left">FILIPINY</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Análise</b>
+      </td>
+      <td style="text-align:left">
+        <p>NI - Nenhum artefato é gerado.</p>
+        <p>PI - Apenas uma lista informal de requisitos é criada OU apenas um documento com requisitos analisados é gerado. </p>
+        <p>FI - Uma lista informal de requisitos é criada e, posteriormente, um documento com requisitos analisados.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### 1.8 Definição refinada do escopo da release
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">ID</th>
+      <th style="text-align:left">1.8</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
+      <td style="text-align:left">Definição refinada do escopo</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Objetivo da Medição</b>
+      </td>
+      <td style="text-align:left">Verificar o processo de definição refinada do escopo da release.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Responsável pela coleta</b>
+      </td>
+      <td style="text-align:left">Equipe de Processo.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Escala</b>
+      </td>
+      <td style="text-align:left">FILIPINY</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Análise</b>
+      </td>
+      <td style="text-align:left">
+        <p>NI - Um backlog da release é gerado a partir dos requisitos, mas não é validado com o cliente.</p>
+        <p>FI - O backlog da release é gerado e validado com o cliente.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 2. Processo de Medição
 
@@ -46,7 +380,9 @@
       </td>
     </tr>
   </tbody>
-</table>### 2.2 Estabelecer e Treinar Time GQM
+</table>
+
+### 2.2 Estabelecer e Treinar Time GQM
 
 <table>
   <thead>
@@ -89,7 +425,9 @@
       </td>
     </tr>
   </tbody>
-</table>### 2.3 **Validar Objetivos, Questões e Métricas**
+</table>
+
+### 2.3 **Validar Objetivos, Questões e Métricas**
 
 <table>
   <thead>
@@ -132,7 +470,9 @@
       </td>
     </tr>
   </tbody>
-</table>### 2.4 **Definir Rastreabilidade**
+</table>
+
+### 2.4 **Definir Rastreabilidade**
 
 <table>
   <thead>
@@ -175,7 +515,9 @@
       </td>
     </tr>
   </tbody>
-</table>### 2.5 Comunicar Resultado
+</table>
+
+### 2.5 Comunicar Resultado
 
 <table>
   <thead>
@@ -217,7 +559,9 @@
       </td>
     </tr>
   </tbody>
-</table>### 2.6 Identificar Melhorias
+</table>
+
+### 2.6 Identificar Melhorias
 
 <table>
   <thead>
@@ -259,7 +603,9 @@
       </td>
     </tr>
   </tbody>
-</table>## 3. Processo de Garantia de Qualidade
+</table>
+
+## 3. Processo de Garantia de Qualidade
 
 ### 3.1 Separação em Milestones
 
@@ -302,7 +648,9 @@
       </td>
     </tr>
   </tbody>
-</table>### 3.2 Utilização do Kanban
+</table>
+
+### 3.2 Utilização do Kanban
 
 <table>
   <thead>
@@ -344,7 +692,9 @@
       </td>
     </tr>
   </tbody>
-</table>### 3.3 Utilização das Labels
+</table>
+
+### 3.3 Utilização das Labels
 
 <table>
   <thead>
@@ -386,7 +736,9 @@
       </td>
     </tr>
   </tbody>
-</table>### 3.4 Política de Resultado das Auditorias
+</table>
+
+### 3.4 Política de Resultado das Auditorias
 
 <table>
   <thead>
@@ -430,7 +782,9 @@
       </td>
     </tr>
   </tbody>
-</table>### 3.5 Política de Não Conformidade
+</table>
+
+### 3.5 Política de Não Conformidade
 
 <table>
   <thead>
@@ -474,7 +828,9 @@
       </td>
     </tr>
   </tbody>
-</table>### 3.6 Planejamento de Auditorias
+</table>
+
+### 3.6 Planejamento de Auditorias
 
 <table>
   <thead>
@@ -520,7 +876,9 @@
       </td>
     </tr>
   </tbody>
-</table>### 3.7 Execução de Auditorias
+</table>
+
+### 3.7 Execução de Auditorias
 
 <table>
   <thead>
