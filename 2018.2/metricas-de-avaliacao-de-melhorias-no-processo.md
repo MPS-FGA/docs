@@ -38,11 +38,11 @@
       <td style="text-align:left"><b>Análise</b>
       </td>
       <td style="text-align:left">
-        <p>NY -</p>
-        <p>NI -</p>
-        <p>PI -</p>
-        <p>LI -</p>
-        <p>FI -</p>
+        <p>NY - Área de melhoria não ainda.</p>
+        <p>NI - Área de melhoria não definida.</p>
+        <p>PI - Área de melhoria identificada</p>
+        <p>LI - Área de melhoria definida.</p>
+        <p>FI - Área de melhoria identificada e definida.</p>
       </td>
     </tr>
   </tbody>
@@ -124,11 +124,11 @@
       <td style="text-align:left"><b>Análise</b>
       </td>
       <td style="text-align:left">
-        <p>NY -</p>
-        <p>NI -
-          <br />PI -</p>
-        <p>LI -</p>
-        <p>FI -</p>
+        <p>NY - OQM não foram validados mas há previsão de validação.</p>
+        <p>NI - OQM não foram validados.
+          <br />PI - OQM foram validados.</p>
+        <p>LI - OQM foram validados e ajustados.</p>
+        <p>FI - OQM foram validados, ajustados e documentados.</p>
       </td>
     </tr>
   </tbody>
