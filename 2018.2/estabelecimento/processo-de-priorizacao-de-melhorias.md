@@ -190,8 +190,12 @@ Falar sobre o método utilizado para definição das priorizações.
 
 | Processo/Atividade | Grau de Definição | Grau de Implementação | Ação de Melhoria | Prioridade | Justificativa |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Definição de Template para Coleta de Dados | FI | FI | - | - | - |
-| Coleta de Dados | LI | NY | Coletar dados. | Must Have | Os dados devem ser coletados para que a próxima etapa do processo possa ser realizada. |
+| Criar/Rever plano de medição | FI | FI | - | - | - |
+| Estabelecer objetivos de medição | FI | FI | - | - | - |
+| Especificar Questões | FI | FI | - | - | - |
+| Identificar métricas | FI | FI | - | - | - |
+| Validar objetivos, questões e métricas | NI | NI | - Produzir um artefato que comprove a execução dessa atividade. | Must Have | A inexistência de um artefato que comprove a execução da atividade compromete a mitigação de problemas. |
+| Definir rastreabilidade | NI | NI | - Detalhar a atividade e o processo de rastreio. - Especificar documento de rastreabilidade. | Must Have | Os textos estão rasos e não servem como base para criar a rastreabilidade. |
 
 ### Atividades de Interpretação
 
