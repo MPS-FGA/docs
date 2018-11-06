@@ -166,11 +166,12 @@
       <td style="text-align:left"><b>Análise</b>
       </td>
       <td style="text-align:left">
-        <p>NY -</p>
-        <p>NI -
-          <br />PI -</p>
-        <p>LI -</p>
-        <p>FI -</p>
+        <p>NY - Sprints não documentadas ainda.</p>
+        <p>NI - Sprints não documentadas.
+          <br />PI - Algumas sprints documentadas.</p>
+        <p>LI - Maioria das sprints documentadas.</p>
+        <p>FI - Todas as sprints documentadas de forma a observar a evolução ao longo
+          do período.</p>
       </td>
     </tr>
   </tbody>
