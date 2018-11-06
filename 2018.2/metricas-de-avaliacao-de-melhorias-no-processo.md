@@ -6,65 +6,259 @@
 
 ### 2.1 Definição de Área de Melhoria
 
-| ID | 2.1 |
-| :--- | :--- |
-| **Nome** | Área de Melhoria |
-| **Objetivo da Medição** | Encontrar uma área de melhoria e defini-la. |
-| **Responsável pela coleta** | Equipe de Processo. |
-| **Escala** | FILIPINY |
-| **Análise** |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">ID</th>
+      <th style="text-align:left">2.1</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
+      <td style="text-align:left">Área de Melhoria</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Objetivo da Medição</b>
+      </td>
+      <td style="text-align:left">Encontrar uma área de melhoria e defini-la.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Responsável pela coleta</b>
+      </td>
+      <td style="text-align:left">Equipe de Processo.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Escala</b>
+      </td>
+      <td style="text-align:left">FILIPINY</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Análise</b>
+      </td>
+      <td style="text-align:left">
+        <p>NY -</p>
+        <p>NI -</p>
+        <p>PI -</p>
+        <p>LI -</p>
+        <p>FI -</p>
+      </td>
+    </tr>
+  </tbody>
+</table>### 2.2 Estabelecer e Treinar Time GQM
 
-### 2.2 Estabelecer e Treinar Time GQM
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">ID</th>
+      <th style="text-align:left">2.2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
+      <td style="text-align:left">Time de GQM</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Objetivo da Medição</b>
+      </td>
+      <td style="text-align:left">Alinhar o conhecimento do time de GQM.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Responsável pela coleta</b>
+      </td>
+      <td style="text-align:left">Equipe de Processo.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Escala</b>
+      </td>
+      <td style="text-align:left">FILIPINY</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Análise</b>
+      </td>
+      <td style="text-align:left">
+        <p>NY - Há previsão de estabelecimento do time e aplicação de treinamentos</p>
+        <p>NI - O time não foi estabelecido</p>
+        <p>PI - O time foi estabelecido mas não foi treinado.</p>
+        <p>LI - O time foi estabelecido mas não foi treinado, porém há previsão de
+          treinamentos.</p>
+        <p>FI - O time foi estabelecido e os treinamentos foram aplicados.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>### 2.3 **Validar Objetivos, Questões e Métricas**
 
-| ID | 2.2 |
-| :--- | :--- |
-| **Nome** | Time de GQM |
-| **Objetivo da Medição** | Alinhar o conhecimento do time de GQM. |
-| **Responsável pela coleta** | Equipe de Processo. |
-| **Escala** | FILIPINY |
-| **Análise** |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">ID</th>
+      <th style="text-align:left">2.3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
+      <td style="text-align:left">Objetivos, questões e métricas</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Objetivo da Medição</b>
+      </td>
+      <td style="text-align:left">Validar com todo o time as medições do GQM tais como seus objetivos, questões
+        e métricas.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Responsável pela coleta</b>
+      </td>
+      <td style="text-align:left">Equipe de Processo</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Escala</b>
+      </td>
+      <td style="text-align:left">FILIPINY</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Análise</b>
+      </td>
+      <td style="text-align:left">
+        <p>NY -</p>
+        <p>NI -
+          <br />PI -</p>
+        <p>LI -</p>
+        <p>FI -</p>
+      </td>
+    </tr>
+  </tbody>
+</table>### 2.4 **Definir Rastreabilidade**
 
-### 2.3 **Validar Objetivos, Questões e Métricas**
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">ID</th>
+      <th style="text-align:left">2.4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
+      <td style="text-align:left">Rastreabilidade</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Objetivo da Medição</b>
+      </td>
+      <td style="text-align:left">Manter um rastreamento mais detalhado.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Responsável pela coleta</b>
+      </td>
+      <td style="text-align:left">Equipe de Processo</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Escala</b>
+      </td>
+      <td style="text-align:left">FILIPINY</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Análise</b>
+      </td>
+      <td style="text-align:left">
+        <p>NY -</p>
+        <p>NI -
+          <br />PI -</p>
+        <p>LI -</p>
+        <p>FI -</p>
+      </td>
+    </tr>
+  </tbody>
+</table>### 2.5 Comunicar Resultado
 
-| ID | 2.3 |
-| :--- | :--- |
-| **Nome** | Objetivos, questões e métricas |
-| **Objetivo da Medição** |  Validar com todo o time as medições do GQM tais como seus objetivos, questões e métricas. |
-| **Responsável pela coleta** | Equipe de Processo |
-| **Escala** | FILIPINY |
-| **Análise** |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">ID</th>
+      <th style="text-align:left">2.5</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
+      <td style="text-align:left">Resultado</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Objetivo da Medição</b>
+      </td>
+      <td style="text-align:left">Facilitar a visualização dos resultados, para os membros das outras equipes.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Responsável pela coleta</b>
+      </td>
+      <td style="text-align:left">Equipe de Processo</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Escala</b>
+      </td>
+      <td style="text-align:left">FILIPINY</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Análise</b>
+      </td>
+      <td style="text-align:left">
+        <p>NY - Resultados não foram comunicados mas há previsão de comunicação.</p>
+        <p>NI - Resultados não foram comunicados.
+          <br />PI - Resultados foram documentados.</p>
+        <p>LI - Resultados foram comunicados.</p>
+        <p>FI - Resultados foram documentados e comunicados.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>### 2.6 Identificar Melhorias
 
-### 2.4 **Definir Rastreabilidade**
-
-| ID | 2.4 |
-| :--- | :--- |
-| **Nome** | Rastreabilidade |
-| **Objetivo da Medição** | Manter um rastreamento mais detalhado. |
-| **Responsável pela coleta** | Equipe de Processo |
-| **Escala** | FILIPINY |
-| **Análise** |  |
-
-### 2.5 Comunicar Resultado
-
-| ID | 2.5 |
-| :--- | :--- |
-| **Nome** | Resultado |
-| **Objetivo da Medição** | Facilitar a visualização dos resultados, para os membros das outras equipes. |
-| **Responsável pela coleta** | Equipe de Processo |
-| **Escala** | FILIPINY |
-| **Análise** |  |
-
-### 2.6 Identificar Melhorias
-
-| ID | 2.6 |
-| :--- | :--- |
-| **Nome** |  Melhorias |
-| **Objetivo da Medição** |  Identificar possíveis melhorias para os projetos analisados. |
-| **Responsável pela coleta** | Equipe de Processo |
-| **Escala** | FILIPINY |
-| **Análise** |  |
-
-## 3. Processo de Garantia de Qualidade
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">ID</th>
+      <th style="text-align:left">2.6</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Nome</b>
+      </td>
+      <td style="text-align:left">Melhorias</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Objetivo da Medição</b>
+      </td>
+      <td style="text-align:left">Identificar possíveis melhorias para os projetos analisados.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Responsável pela coleta</b>
+      </td>
+      <td style="text-align:left">Equipe de Processo</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Escala</b>
+      </td>
+      <td style="text-align:left">FILIPINY</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Análise</b>
+      </td>
+      <td style="text-align:left">
+        <p>NY - Melhorias não identificadas melhorias porém há previsão de identificação.</p>
+        <p>NI - Melhorias não foram identificadas.
+          <br />PI - Melhorias foram identificadas.</p>
+        <p>LI - Melhorias foram identificadas e documentadas.</p>
+        <p>FI - Melhorias foram identificadas, documentadas e implementadas.</p>
+      </td>
+    </tr>
+  </tbody>
+</table>## 3. Processo de Garantia de Qualidade
 
 ### 3.1 Separação em Milestones
 
