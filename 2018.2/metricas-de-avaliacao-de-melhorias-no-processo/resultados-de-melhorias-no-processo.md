@@ -2,7 +2,9 @@
 
 ## Introdução
 
+Este artefato tem o intuito de detalhar os resultados das melhorias obtidas no decorrer de 3 sprints, o plano de melhoria foi traçado pela equipe de processos e foi discutido em sala com as outras equipes. As propostas de melhorias estão disponíveis no link abaixo.
 
+{% page-ref page="../estabelecimento/propostas-de-melhorias.md" %}
 
 ## Objetivos
 
