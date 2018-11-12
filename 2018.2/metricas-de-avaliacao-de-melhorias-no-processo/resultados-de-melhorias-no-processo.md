@@ -27,6 +27,13 @@ Os resultados foram obtidos após a analise dos artefatos gerados pelas equipes 
 | Comunicar Resultado | LI | FI | Os artefatos possuem os resultados obtidos. |
 | Identificar Melhorias | LI | LI | Os artefatos não possuem sugestões a serem adotadas pelas equipes de fora a melhorar uma atividade realizada no processo. |
 
+#### Atividades de Definição
+
+| Atividade | Anterior | Atual | Comentários |
+| :--- | :--- | :--- | :--- |
+| Definir rastreabilidade | NI | FI | Todas as Sprints foram documentadas de forma completa e os resultados das métricas estão disponíveis publicamente. |
+| Validar objetivos, questões e métricas | NI | FI | Foram validados, ajustados e documentados, porém o artefato se manteve privado para a equipe de medição, não sendo possível ser acessado de maneira pública. |
+
 ## Lições
 
 Após a obtenção dos resultados a equipe identificou que poderia ter desenvolvido melhor os objetivos que se desejavam alcançar com as melhorias.
