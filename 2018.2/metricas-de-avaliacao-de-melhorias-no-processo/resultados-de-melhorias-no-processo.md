@@ -8,6 +8,14 @@ Este artefato tem o intuito de detalhar os resultados das melhorias obtidas no d
 
 ## Objetivos
 
+As melhorias no processo foram pensadas para serem adotadas de forma a não alterar compulsoriamente as atividades que já vinham sendo realizadas pelas equipes. Por isso, antes de aplicá-las, as melhorias foram discutidas com cada equipe.
+
+Os parâmetros abaixo foram levados em consideração para o planejamento das melhorias.
+
+**Baixa escala** - Foram propostas pequenas alterações em atividades já realizadas pelas equipes.
+
+**Alta flexibilidade** - As melhorias foram definidas para serem flexíveis, havendo a possibilidade da equipe em não realizar determinadas atividades, pois levou-se em consideração o ambiente para desenvolvimento do projeto, além do tempo a disponível para dedicação ao projeto por cada integrante.
+
 ## Resultados
 
 Os resultados foram obtidos após a analise dos artefatos gerados pelas equipes do projeto durante o período de **11 de outubro** até **01 de novembro de 2018**. Estes resultados são apresentados em formato de tabela.
