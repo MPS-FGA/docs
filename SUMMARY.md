@@ -25,5 +25,6 @@
 * [Estabelecimento](2018.2/estabelecimento/README.md)
   * [Processo de Priorização de Melhorias](2018.2/estabelecimento/processo-de-priorizacao-de-melhorias.md)
   * [Propostas de Melhorias](2018.2/estabelecimento/propostas-de-melhorias.md)
-* [Métricas de Avaliação de Melhorias no Processo](2018.2/metricas-de-avaliacao-de-melhorias-no-processo.md)
+* [Métricas de Avaliação de Melhorias no Processo](2018.2/metricas-de-avaliacao-de-melhorias-no-processo/README.md)
+  * [Resultados de Melhorias no Processo](2018.2/metricas-de-avaliacao-de-melhorias-no-processo/resultados-de-melhorias-no-processo.md)
 
