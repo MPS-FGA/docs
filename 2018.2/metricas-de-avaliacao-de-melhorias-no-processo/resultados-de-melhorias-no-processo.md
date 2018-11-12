@@ -50,3 +50,5 @@ Após a obtenção dos resultados a equipe identificou que poderia ter desenvolv
 
 Além disso, poderia também ter identificado a satisfação das pessoas que estavam utilizando o processo após aplicadas.
 
+Após a mudança do processo foi observado uma pequena melhora por parte de medição. Basicamente foi proposto a elaboração de documentos e de análises de dados, ao qual ficou evidente o empenho por parte da equipe o que acarretou em uma melhora positiva, visto que os artefatos e as análises foram feitas. Alcançando assim os nossos objetivos na equipe de medição, que era a elaboração de atividades e a dedicação ao projeto por parte da equipe de medição.
+
